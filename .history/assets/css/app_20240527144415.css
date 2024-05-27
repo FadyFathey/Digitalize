@@ -513,9 +513,7 @@ footer .social-icons a:not(:last-child) {
 }
 
 .whats-img:hover {
-    filter: drop-shadow(9px 3px 10px #32d12e);
     animation: vibrate 0.5s;
-    -webkit-animation: vibrate 0.5s;
 }
 
 @keyframes vibrate {
@@ -533,7 +531,7 @@ footer .social-icons a:not(:last-child) {
         -moz-transform: rotate(-10deg);
         -ms-transform: rotate(-10deg);
         -o-transform: rotate(-10deg);
-    }
+}
 
     20% {
         transform: rotate(10deg);
@@ -541,7 +539,7 @@ footer .social-icons a:not(:last-child) {
         -moz-transform: rotate(10deg);
         -ms-transform: rotate(10deg);
         -o-transform: rotate(10deg);
-    }
+}
 
     30% {
         transform: rotate(0deg);
@@ -557,7 +555,7 @@ footer .social-icons a:not(:last-child) {
         -moz-transform: rotate(10deg);
         -ms-transform: rotate(10deg);
         -o-transform: rotate(10deg);
-    }
+}
 
     50% {
         transform: rotate(-10deg);
@@ -565,7 +563,7 @@ footer .social-icons a:not(:last-child) {
         -moz-transform: rotate(-10deg);
         -ms-transform: rotate(-10deg);
         -o-transform: rotate(-10deg);
-    }
+}
 
     60% {
         transform: rotate(0deg);
@@ -581,7 +579,7 @@ footer .social-icons a:not(:last-child) {
         -moz-transform: rotate(-10deg);
         -ms-transform: rotate(-10deg);
         -o-transform: rotate(-10deg);
-    }
+}
 
     80% {
         transform: rotate(10deg);
@@ -589,7 +587,7 @@ footer .social-icons a:not(:last-child) {
         -moz-transform: rotate(10deg);
         -ms-transform: rotate(10deg);
         -o-transform: rotate(10deg);
-    }
+}
 
     90% {
         transform: rotate(0deg);
@@ -600,19 +598,10 @@ footer .social-icons a:not(:last-child) {
     }
 
     100% {
-        transform: rotate(-10deg);
-        -webkit-transform: rotate(-10deg);
-        -moz-transform: rotate(-10deg);
-        -ms-transform: rotate(-10deg);
-        -o-transform: rotate(-10deg);
+        transform: rotate(-5deg);
+        -webkit-transform: rotate(-5deg);
+        -moz-transform: rotate(-5deg);
+        -ms-transform: rotate(-5deg);
+        -o-transform: rotate(-5deg);
     }
-}
-
-.hover-effect {
-    filter: drop-shadow(-6px -2px 11px #fac562);
-}
-
-.hover-effect:hover {
-    filter: drop-shadow(-6px -2px 15px #fac562);
-    animation: vibrate 0.5s;
 }

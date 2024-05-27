@@ -515,7 +515,6 @@ footer .social-icons a:not(:last-child) {
 .whats-img:hover {
     filter: drop-shadow(9px 3px 10px #32d12e);
     animation: vibrate 0.5s;
-    -webkit-animation: vibrate 0.5s;
 }
 
 @keyframes vibrate {
@@ -609,10 +608,5 @@ footer .social-icons a:not(:last-child) {
 }
 
 .hover-effect {
-    filter: drop-shadow(-6px -2px 11px #fac562);
-}
-
-.hover-effect:hover {
-    filter: drop-shadow(-6px -2px 15px #fac562);
-    animation: vibrate 0.5s;
+    filter: drop-shadow(-6px -2px 4px #fac562);
 }
