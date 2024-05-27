@@ -1,6 +1,6 @@
 # Digitalize
 
-Digitalize – HTML and CSS Responsive landing page created for [Your Company Name].
+Digitalize – HTML and CSS Responsive landing page created for [Digitalize For Business Solution].
 
 ## Features
 
@@ -57,11 +57,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-[Your Name] - [@your_twitter](https://twitter.com/your_twitter) - your_email@example.com
 
 Project Link: [https://github.com/FadyFathey/Digitalize](https://github.com/FadyFathey/Digitalize)
 - https://github.com/mattboldt/typed.js/
 - https://michalsnik.github.io/aos/
 
-# Watch more
-For more videos visit to my Youtube channel. [SA7MAN](https://www.youtube.com/c/SA7MAN)
